@@ -1,0 +1,513 @@
+[23Nov2024 22:36:07.605] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.34, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[23Nov2024 22:36:07.609] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.24 by Ubuntu
+[23Nov2024 22:36:08.131] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[23Nov2024 22:36:08.253] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/Legencraft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[23Nov2024 22:36:09.605] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[23Nov2024 22:36:09.758] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[23Nov2024 22:36:09.768] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[23Nov2024 22:36:09.781] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[23Nov2024 22:36:09.804] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[23Nov2024 22:36:09.821] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[23Nov2024 22:36:13.054] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[23Nov2024 22:36:13.060] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.patchouli.common.MixinConnector]
+[23Nov2024 22:36:13.077] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[23Nov2024 22:36:28.144] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[23Nov2024 22:36:28.152] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[23Nov2024 22:36:28.154] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[23Nov2024 22:36:28.155] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[23Nov2024 22:36:28.193] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `walljump` for name `walljump`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[23Nov2024 22:36:28.194] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `walljump` for name `doublejump`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[23Nov2024 22:36:28.195] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `walljump` for name `speedboost`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[23Nov2024 22:36:30.827] [modloading-worker-1/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.2...
+[23Nov2024 22:36:31.044] [modloading-worker-1/INFO] [JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[23Nov2024 22:36:31.449] [modloading-worker-1/INFO] [Shadow.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[23Nov2024 22:36:32.832] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.34, for MC 1.16.5 with MCP 20210115.111550
+[23Nov2024 22:36:32.833] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.34 Initialized
+[23Nov2024 22:36:33.516] [modloading-worker-1/INFO] [JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
+[23Nov2024 22:36:34.099] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: tower structure registered
+[23Nov2024 22:36:34.101] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: ice_tower structure registered
+[23Nov2024 22:36:34.102] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: jungle_tower structure registered
+[23Nov2024 22:36:34.103] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: derelict_tower structure registered
+[23Nov2024 22:36:34.103] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: derelict_grass_tower structure registered
+[23Nov2024 22:36:34.107] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: ocean_tower structure registered
+[23Nov2024 22:36:34.118] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: ocean_warm_tower structure registered
+[23Nov2024 22:36:34.483] [modloading-worker-1/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[23Nov2024 22:36:35.213] [modloading-worker-1/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[23Nov2024 22:36:35.214] [modloading-worker-1/INFO] [Spartan Weaponry/]: Initialising API! Version: 5
+[23Nov2024 22:36:35.628] [modloading-worker-1/INFO] [corgiaoc.byg.BYG/]: Loading config: /workspaces/Legencraft/servidor_minecraft/config/byg/byg-nether.toml
+[23Nov2024 22:36:36.119] [modloading-worker-1/INFO] [expandability/]: ExpandAbility here, who dis?
+[23Nov2024 22:36:37.800] [modloading-worker-0/INFO] [ejektaflex.bountiful.BountifulMod/]: Loading Bountiful listeners..
+[23Nov2024 22:36:37.899] [modloading-worker-0/INFO] [STDOUT/]: [ejektaflex.bountiful.data.json.JsonSerializers:register:14]: BOREG registering json ser
+[23Nov2024 22:36:39.960] [main/INFO] [com.song.castle_in_the_sky.CastleInTheSky/]: HELLO from Register Block
+[23Nov2024 22:36:43.033] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Blocks registered!
+[23Nov2024 22:36:43.705] [main/INFO] [Spartan Shields/]: Registering Items
+[23Nov2024 22:36:43.707] [main/INFO] [Spartan Shields/]: Registered Items successfully!
+[23Nov2024 22:36:43.847] [main/INFO] [patchouli/]: Loaded book jsons on Thread[main,5,main] in 139 ms
+[23Nov2024 22:36:43.862] [main/INFO] [Spartan Weaponry/]: Registering items...
+[23Nov2024 22:36:43.870] [main/INFO] [Spartan Weaponry/]: Items Registered!
+[23Nov2024 22:36:43.971] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Items registered!
+[23Nov2024 22:36:44.168] [main/INFO] [Spartan Shields/]: Registering Enchantments
+[23Nov2024 22:36:44.169] [main/INFO] [Spartan Shields/]: Registered Enchantments successfully!
+[23Nov2024 22:36:44.288] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:extrapart, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.293] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:sandcloud, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.294] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:traveler, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.295] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:anthermite, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.297] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:mimic, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.298] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:piranha, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.300] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:rogue, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.301] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:slimond, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.302] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:haunter, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.303] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:lordskeleton, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.304] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:deadhound, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.305] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:crow, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.306] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:notehead, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.307] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:winterhunter, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.309] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:pice, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.311] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:leech, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.312] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:pitcher, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.313] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:whirlwind, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.315] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:crawler, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.316] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:deserted, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.317] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:ironslime, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.318] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:king, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.319] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:kraken, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.320] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:sun, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.322] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:voidmaster, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.323] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:guard, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.324] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:scientist, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.324] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for dungeonsmod:slimewolf, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.482] [main/INFO] [Spartan Weaponry/]: Registering Entities
+[23Nov2024 22:36:44.494] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Entities registered!
+[23Nov2024 22:36:44.499] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for illagers_plus:archer, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.501] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for illagers_plus:berserker, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.503] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for illagers_plus:black_iron_golem, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.504] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for illagers_plus:enchanter, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.505] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for illagers_plus:furantur, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.505] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for illagers_plus:hoarder, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.506] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for illagers_plus:illager_king, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.507] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for illagers_plus:miner, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.508] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for illagers_plus:necromancer, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:44.646] [main/INFO] [com.dainxt.dungeonsmod.DungeonsMod/]: Register Point of Interest public static net.minecraft.village.PointOfInterestType net.minecraft.village.PointOfInterestType.func_221052_a(net.minecraft.village.PointOfInterestType)
+[23Nov2024 22:36:45.306] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/biome: The object minecraft:the_end has been registered twice for the same name minecraft:the_end.
+[23Nov2024 22:36:45.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/biome: The object minecraft:end_barrens has been registered twice for the same name minecraft:end_barrens.
+[23Nov2024 22:36:45.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/biome: The object minecraft:small_end_islands has been registered twice for the same name minecraft:small_end_islands.
+[23Nov2024 22:36:45.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/biome: The object minecraft:end_midlands has been registered twice for the same name minecraft:end_midlands.
+[23Nov2024 22:36:45.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/biome: The object minecraft:end_highlands has been registered twice for the same name minecraft:end_highlands.
+[23Nov2024 22:36:47.813] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Biomes registered!
+[23Nov2024 22:36:47.818] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Registering block placer types!
+[23Nov2024 22:36:47.841] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Decorators registered!
+[23Nov2024 22:36:47.941] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Features registered!
+[23Nov2024 22:36:48.035] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Structures registered!
+[23Nov2024 22:36:48.041] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Surface builders Registered!
+[23Nov2024 22:36:48.051] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.iceandfire.entity.EntityHippogryph from class com.github.alexthe666.iceandfire.entity.EntityPixie
+[23Nov2024 22:36:48.075] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.iceandfire.entity.EntityDreadThrall from class com.github.alexthe666.iceandfire.entity.EntityDreadKnight
+[23Nov2024 22:36:48.446] [main/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: Config set
+[23Nov2024 22:36:48.447] [Thread-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: Config set
+[23Nov2024 22:36:48.449] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[23Nov2024 22:36:48.539] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for goblintraders:goblin_trader, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:48.539] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for goblintraders:vein_goblin_trader, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:48.700] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[23Nov2024 22:36:48.713] [modloading-worker-0/INFO] [Dungeon Crawl/]: Whitelisted Dimensions:
+[23Nov2024 22:36:48.714] [modloading-worker-0/INFO] [Dungeon Crawl/]: minecraft:overworld
+[23Nov2024 22:36:48.990] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:anvil_pet_entity, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:48.991] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:bed_pet_entity, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:48.992] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:bill_gates_entity, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:48.993] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:satya_nadella_entity, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:48.994] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:steve_ballmer_entity, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:48.995] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:siamese_entity, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:48.996] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:mini_quantum_blaze_entity, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:48.997] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:mini_quantum_enderman_entity, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:49.211] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [treechop] Starting version check at https://raw.githubusercontent.com/hammertater/treechop/main/update.json
+[23Nov2024 22:36:49.213] [modloading-worker-1/WARN] [melonslise.subwild.SubWild/]: 
+[23Nov2024 22:36:49.214] [modloading-worker-1/WARN] [melonslise.subwild.SubWild/]: @@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[23Nov2024 22:36:49.214] [modloading-worker-1/WARN] [melonslise.subwild.SubWild/]: Yung's Better Caves Present! Enabling workaround for wall feature placements!
+[23Nov2024 22:36:49.215] [modloading-worker-1/WARN] [melonslise.subwild.SubWild/]: @@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[23Nov2024 22:36:49.215] [modloading-worker-1/WARN] [melonslise.subwild.SubWild/]: 
+[23Nov2024 22:36:49.227] [modloading-worker-0/INFO] [com.song.castle_in_the_sky.CastleInTheSky/]: HELLO FROM PREINIT
+[23Nov2024 22:36:49.233] [modloading-worker-0/INFO] [com.song.castle_in_the_sky.CastleInTheSky/]: DIRT BLOCK >> minecraft:dirt
+[23Nov2024 22:36:49.264] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [treechop] Found status: OUTDATED Current: 0.14.5 Target: 0.14.6
+[23Nov2024 22:36:49.275] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeonsmod] Starting version check at https://raw.githubusercontent.com/dainxt/DungeonsMod-Issue-Tracker/master/update.json
+[23Nov2024 22:36:49.277] [modloading-worker-1/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[23Nov2024 22:36:49.294] [modloading-worker-0/ERROR] [mixin/]: Mixin config projectvibrantjourneys.mixins.json does not specify "minVersion" property
+[23Nov2024 22:36:49.295] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeonsmod] Found status: BETA Current: 1.16.3-1.4.32 Target: null
+[23Nov2024 22:36:49.296] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[23Nov2024 22:36:49.390] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[23Nov2024 22:36:49.435] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[23Nov2024 22:36:49.475] [modloading-worker-0/INFO] [corgiaoc.byg.BYG/]: Reading Sub-Biomes json
+[23Nov2024 22:36:49.592] [modloading-worker-0/INFO] [corgiaoc.byg.BYG/]: Reading json
+[23Nov2024 22:36:49.611] [modloading-worker-0/INFO] [corgiaoc.byg.BYG/]: BYG: "Common Setup" Event Complete!
+[23Nov2024 22:36:49.620] [modloading-worker-0/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Added Illagers to Raids
+[23Nov2024 22:36:49.733] [modloading-worker-1/INFO] [voicechat/]: [voicechat] Loading plugins
+[23Nov2024 22:36:49.756] [modloading-worker-1/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[23Nov2024 22:36:49.757] [modloading-worker-1/INFO] [voicechat/]: [voicechat] Initializing plugins
+[23Nov2024 22:36:49.758] [modloading-worker-1/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[23Nov2024 22:36:49.878] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
+[23Nov2024 22:36:49.902] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA_OUTDATED Current: 1.6.0 Target: 1.7.3
+[23Nov2024 22:36:49.904] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bettercaves] Starting version check at https://raw.githubusercontent.com/yungnickyoung/YUNGs-Better-Caves/1.16/versions.json
+[23Nov2024 22:36:49.913] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bettercaves] Found status: BETA Current: 1.16.4-1.1.2 Target: null
+[23Nov2024 22:36:49.915] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Starting version check at https://raw.githubusercontent.com/seymourimadeit/guardvillagers/master/update.json
+[23Nov2024 22:36:49.924] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Found status: OUTDATED Current: 1.2.5 Target: 1.2.6
+[23Nov2024 22:36:49.924] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[23Nov2024 22:36:49.938] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for guardvillagers:guard, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:50.023] [main/INFO] [Shadow.repack.noobutil.NoobUtil/]: Added 3 additional attributes to PlayerEntity.
+[23Nov2024 22:36:50.035] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: OUTDATED Current: 3.2.1.196 Target: 3.2.1.308
+[23Nov2024 22:36:50.036] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[23Nov2024 22:36:50.065] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for betterendforge:end_fish, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:50.065] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for betterendforge:dragonfly, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:50.066] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for betterendforge:shadow_walker, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:50.067] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for betterendforge:end_slime, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:50.068] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for betterendforge:cubozoa, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:50.069] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for betterendforge:silk_moth, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:50.131] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 36.2.34 Target: null
+[23Nov2024 22:36:50.131] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[23Nov2024 22:36:50.148] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: OUTDATED Current: 1.12.1.90 Target: 1.12.1.103
+[23Nov2024 22:36:50.150] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[23Nov2024 22:36:50.218] [main/WARN] [com.telepathicgrunt.repurposedstructures.RepurposedStructures/]: Repurposed Structures: Unknown key repurposed_structures:dungeon_jungle was found in the dimension allow config. Skipping that entry...
+[23Nov2024 22:36:50.219] [main/WARN] [com.telepathicgrunt.repurposedstructures.RepurposedStructures/]: Repurposed Structures: Unknown key repurposed_structures:warm_land_ruins was found in the dimension allow config. Skipping that entry...
+[23Nov2024 22:36:50.396] [main/INFO] [com.litewolf101.illagers_plus.IllagersPlus/]: Made the world slightly more miserable
+[23Nov2024 22:36:50.458] [modloading-worker-0/INFO] [xaero.common.server.XaeroMinimapServer/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[23Nov2024 22:36:50.467] [main/INFO] [xaero.common.server.XaeroMinimapServer/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[23Nov2024 22:36:50.482] [modloading-worker-1/INFO] [com.song.castle_in_the_sky.CastleInTheSky/]: Got IMC []
+[23Nov2024 22:36:50.492] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mowziesmobs:foliaath, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:50.493] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mowziesmobs:baby_foliaath, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:50.494] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mowziesmobs:ferrous_wroughtnaut, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:50.494] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mowziesmobs:barakoana, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:50.495] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mowziesmobs:barakoaya, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:50.495] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mowziesmobs:barakoan_player, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:50.496] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mowziesmobs:barakoa_sunblocker_player, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:50.496] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mowziesmobs:barakoan_barakoana, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:50.497] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mowziesmobs:barakoa_sunblocker, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:50.497] [modloading-worker-0/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.bobmowzie.mowziesmobs.server.entity.barakoa.EntityBarakoaVillager from class com.bobmowzie.mowziesmobs.server.entity.barakoa.EntityBarako
+[23Nov2024 22:36:50.498] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mowziesmobs:barako, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:50.498] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mowziesmobs:frostmaw, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:50.499] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mowziesmobs:naga, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:50.499] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mowziesmobs:lantern, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:50.500] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mowziesmobs:grottol, use EntityAttributeCreationEvent instead.
+[23Nov2024 22:36:50.589] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Compostible Blocks Added!
+[23Nov2024 22:36:50.599] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Added Hoeable Blocks!
+[23Nov2024 22:36:50.607] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Added Flammables!
+[23Nov2024 22:36:50.611] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Added strippable Blocks...
+[23Nov2024 22:36:50.620] [main/INFO] [corgiaoc.byg.BYG/]: BYG: "Load Complete" Event Complete!
+[23Nov2024 22:36:50.686] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.lang.NullPointerException: null
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:174) ~[forge:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:201) ~[forge:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:142) [forge:?]
+[23Nov2024 22:36:50.687] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corail_recycler] Starting version check at https://raw.githubusercontent.com/Corail31/recycler/master/update.json
+[23Nov2024 22:36:50.696] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corail_recycler] Found status: OUTDATED Current: 5.2.0 Target: 5.2.1
+[23Nov2024 22:36:50.697] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vanilladeathchest] Starting version check at https://raw.githubusercontent.com/TheRandomLabs/VanillaDeathChest/misc/versions.json
+[23Nov2024 22:36:50.710] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vanilladeathchest] Found status: UP_TO_DATE Current: 1.16.3-1.11.0.8 Target: null
+[23Nov2024 22:36:57.660] [main/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[23Nov2024 22:36:57.794] [main/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: tower structure feature registered
+[23Nov2024 22:36:57.795] [main/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: ice_tower structure feature registered
+[23Nov2024 22:36:57.796] [main/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: jungle_tower structure feature registered
+[23Nov2024 22:36:57.797] [main/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: derelict_tower structure feature registered
+[23Nov2024 22:36:57.798] [main/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: derelict_grass_tower structure feature registered
+[23Nov2024 22:36:57.804] [main/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: ocean_tower structure feature registered
+[23Nov2024 22:36:57.806] [main/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: ocean_warm_tower structure feature registered
+[23Nov2024 22:37:00.474] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23Nov2024 22:37:01.569] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23Nov2024 22:37:01.572] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23Nov2024 22:37:01.575] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23Nov2024 22:37:01.578] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23Nov2024 22:37:01.581] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23Nov2024 22:37:01.586] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23Nov2024 22:37:01.595] [main/INFO] [ejektaflex.bountiful.BountifulMod/]: Bountiful adding resource listener..
+[23Nov2024 22:37:01.597] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.34-universal.jar, TreeChop-1.16.4-0.14.5.jar, mowziesmobs-1.5.19.jar, DungeonsMod-1.16.3-1.4.32.jar, Pirates_And_Looters_Kraken_Update.jar, goblintraders-1.6.0-1.16.3.jar, BetterCaves-Forge-1.16.4-1.1.2.jar, Waystones_1.16.5-7.6.2.jar, comforts-forge-1.16.5-4.0.1.2.jar, citadel-1.8.1-1.16.5.jar, Artifacts-1.16.5-2.10.0.jar, YungsApi-1.16.4-Forge-12.jar, DungeonCrawl-1.16.5-2.3.2.jar, guardvillagers-1.16.5.1.2.5.jar, u_team_core-1.16.5-3.2.1.196.jar, iceandfire-2.1.9-1.16.5.jar, walljump-forge-1.16.4-1.3.7.jar, inventorypets-1.16.5-2.0.15.jar, iChunUtil-1.16.5-10.4.1.jar, mysticalworld-1.16.5-0.3.2.17.jar, Paraglider-1.16.5-1.3.2.1.jar, TravelersTitles-1.16.4-1.5.jar, subwild-1.2.1.jar, betterendforge-1.16.4-1.6.0.jar, DungeonsArise-1.16.5-2.1.47-release.jar, castle_in_the_sky-1.16.5-0.2.6.jar, useful_backpacks-1.16.5-1.12.1.90.jar, repurposed_structures_forge-3.1.0+1.16.5.jar, projectvibrantjourneys-1.16.5-3.2.2.jar, EndRemastered-R36.jar, towers_of_the_wild-1.16.4-2.0.1.jar, SpawnerFix-1.16.2-1.0.0.2.jar, Bountiful-1.16.4-3.3.1.jar, curios-forge-1.16.5-4.0.5.2.jar, SpartanShields-1.16.5-2.1.2.jar, Patchouli-1.16.4-53.1 (1).jar, Xaeros_Minimap_21.14.1_Forge_1.16.5.jar, collective-1.16.5-2.60.jar, corail_recycler-1.16.5-5.2.0.jar, vanilladeathchest-1.16.3-1.11.0.8.jar, SpartanWeaponry-1.16.4-2.1.0-beta-4.jar, cloth-config-4.11.26-forge.jar, byg-1.3.1.jar, Aquaculture-1.16.5-2.1.20.jar, illagers_plus-1.16.4v1.5.jar, infinitetrading_1.16.5-1.9.jar, expandability-2.0.1-forge.jar, valhelsia_core-16.0.9.jar, valhelsia_structures-1.16.5-0.1.4.jar, BetterMineshafts-Forge-1.16.4-2.0.4.jar, dungeons_gear-1.16.5-3.0.17.jar, voicechat-forge-1.16.5-2.5.26.jar
+[23Nov2024 22:37:08.951] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe dungeons_gear:gold_sword_smithing
+com.google.gson.JsonSyntaxException: Unknown item 'minecraft:golden__sword'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.SmithingRecipe$Serializer.func_199425_a_(SmithingRecipe.java:70) ~[?:?]
+	at net.minecraft.item.crafting.SmithingRecipe$Serializer.func_199425_a_(SmithingRecipe.java:68) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2079) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+[23Nov2024 22:37:09.020] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 11 recipes
+[23Nov2024 22:37:10.153] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[23Nov2024 22:37:11.725] [Worker-Main-2/ERROR] [net.minecraft.loot.LootTableManager/]: Couldn't parse loot table bountiful:blocks/bountyboard
+com.google.gson.JsonSyntaxException: Missing ops, expected to find a JsonArray
+	at net.minecraft.util.JSONUtils.func_151214_t(SourceFile:425) ~[?:?]
+	at net.minecraft.loot.functions.CopyNbt$Serializer.func_186530_b(SourceFile:245) ~[?:?]
+	at net.minecraft.loot.functions.CopyNbt$Serializer.func_186530_b(SourceFile:231) ~[?:?]
+	at net.minecraft.loot.LootFunction$Serializer.func_230423_a_(SourceFile:99) ~[?:?]
+	at net.minecraft.loot.LootFunction$Serializer.func_230423_a_(SourceFile:88) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:149) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:129) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:86) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:74) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188174_a(SourceFile:448) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:183) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:180) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:252) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:249) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:925) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:888) ~[forge:?]
+	at net.minecraft.loot.LootTableManager.lambda$apply$0(LootTableManager.java:40) ~[?:?]
+	at java.util.HashMap.forEach(HashMap.java:1337) ~[?:?]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:38) ~[?:?]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:16) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2079) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+[23Nov2024 22:37:11.751] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[23Nov2024 22:37:12.399] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {piratesandlootersreborn:entities/kraken}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[23Nov2024 22:37:12.412] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {piratesandlootersreborn:entities/kraken}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[23Nov2024 22:37:12.413] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {piratesandlootersreborn:entities/kraken}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[23Nov2024 22:37:12.413] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {piratesandlootersreborn:entities/kraken}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[23Nov2024 22:37:12.413] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {endrem:blocks/end_crystal_ore}.pools[0].entries[0]: Unreachable entry!
+[23Nov2024 22:37:12.413] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {piratesandlootersreborn:entities/kraken}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[23Nov2024 22:37:12.674] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2317 advancements
+[23Nov2024 22:37:12.678] [Worker-Main-2/INFO] [Dungeon Crawl/]: Loading data...
+[23Nov2024 22:37:14.116] [Worker-Main-2/INFO] [Dungeon Crawl/]: Done.
+[23Nov2024 22:37:14.171] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Loading Bounty Data. We will probably skip some data since certain mods are not loaded.
+[23Nov2024 22:37:14.272] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/simplytea/chef_objs as dependencies are not met: [simplytea]
+[23Nov2024 22:37:14.285] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/upgrade_aquatic/fisherman_rews as dependencies are not met: [upgrade_aquatic]
+[23Nov2024 22:37:14.290] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/inspirations/farmer_rews as dependencies are not met: [inspirations]
+[23Nov2024 22:37:14.312] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/vanillafoodpantry/chef_objs as dependencies are not met: [vanillafoodpantry]
+[23Nov2024 22:37:14.325] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/upgrade_aquatic/fisherman_objs as dependencies are not met: [upgrade_aquatic]
+[23Nov2024 22:37:14.328] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/apotheosis/fletcher_rews as dependencies are not met: [apotheosis]
+[23Nov2024 22:37:14.348] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/charm/tinker_objs as dependencies are not met: [charm]
+[23Nov2024 22:37:14.361] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/simplefarming/chef_objs as dependencies are not met: [simplefarming]
+[23Nov2024 22:37:14.362] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/quark/tinker_rews as dependencies are not met: [quark]
+[23Nov2024 22:37:14.365] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/upgrademodifiers/armorer_rews as dependencies are not met: [upgrademodifiers]
+[23Nov2024 22:37:14.373] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/charm/tinker_rews as dependencies are not met: [charm]
+[23Nov2024 22:37:14.375] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/naturescompass/toolsmith_rews as dependencies are not met: [naturescompass]
+[23Nov2024 22:37:14.377] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/storagedrawers/tinker_rews as dependencies are not met: [storagedrawers]
+[23Nov2024 22:37:14.378] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/quark/toolsmith_rews as dependencies are not met: [quark]
+[23Nov2024 22:37:14.392] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/quark/farmer_objs as dependencies are not met: [quark]
+[23Nov2024 22:37:14.394] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/inspirations/tinker_rews as dependencies are not met: [inspirations]
+[23Nov2024 22:37:14.397] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/farmingforblockheads/farmer_objs as dependencies are not met: [farmingforblockheads]
+[23Nov2024 22:37:14.401] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/upgrademodifiers/toolsmith_rews as dependencies are not met: [upgrademodifiers]
+[23Nov2024 22:37:14.405] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/vanillafoodpantry/chef_rews as dependencies are not met: [vanillafoodpantry]
+[23Nov2024 22:37:14.408] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/inspirations/fletcher_rews as dependencies are not met: [inspirations]
+[23Nov2024 22:37:14.410] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/farmingforblockheads/farmer_rews as dependencies are not met: [farmingforblockheads]
+[23Nov2024 22:37:14.412] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/xlfoodmod/chef_objs as dependencies are not met: [xlfoodmod]
+[23Nov2024 22:37:14.418] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/simplefarming/farmer_objs as dependencies are not met: [simplefarming]
+[23Nov2024 22:37:14.418] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/quark/fletcher_objs as dependencies are not met: [quark]
+[23Nov2024 22:37:14.420] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/xlfoodmod/chef_rews as dependencies are not met: [xlfoodmod]
+[23Nov2024 22:37:14.422] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/simplefarming/farmer_rews as dependencies are not met: [simplefarming]
+[23Nov2024 22:37:14.423] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Found decrees: [hunting, butcher, mason, librarian, farmer, toolsmith, chef, mapper, armorer, fletcher, fisherman, cleric, leatherer, shepherd, tinker]
+[23Nov2024 22:37:14.425] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Merging Entry Pools..
+[23Nov2024 22:37:14.425] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating Entry Pools..
+[23Nov2024 22:37:14.430] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'toolsmith_objs'
+[23Nov2024 22:37:14.433] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'butcher_rews'
+[23Nov2024 22:37:14.434] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'tinker_objs'
+[23Nov2024 22:37:14.435] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'common_enchants'
+[23Nov2024 22:37:14.437] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'shepherd_objs'
+[23Nov2024 22:37:14.438] [Worker-Main-2/WARN] [ejektaflex.bountiful.BountifulMod/]: Invalid pool item: BountyEntry (item-tag) [Item: minecraft:wool, Amount: 0 [[4..32]], Worth: 250, NBT: null, Weight: 1000]
+[23Nov2024 22:37:14.439] [Worker-Main-2/WARN] [ejektaflex.bountiful.BountifulMod/]: Invalid pool item: BountyEntry (item-tag) [Item: forge:dyes, Amount: 0 [[2..16]], Worth: 200, NBT: null, Weight: 1000]
+[23Nov2024 22:37:14.439] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'chef_objs'
+[23Nov2024 22:37:14.440] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'toolsmith_rews'
+[23Nov2024 22:37:14.441] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'fisherman_objs'
+[23Nov2024 22:37:14.443] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'leatherer_rews'
+[23Nov2024 22:37:14.443] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'farmer_rews'
+[23Nov2024 22:37:14.444] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'cleric_objs'
+[23Nov2024 22:37:14.445] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'fisherman_rews'
+[23Nov2024 22:37:14.445] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'armorer_rews'
+[23Nov2024 22:37:14.446] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'shepherd_rews'
+[23Nov2024 22:37:14.447] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'armorer_objs'
+[23Nov2024 22:37:14.447] [Worker-Main-2/WARN] [ejektaflex.bountiful.BountifulMod/]: Invalid pool item: BountyEntry (item-tag) [Item: forge:ingots/copper, Amount: 0 [[1..16]], Worth: 800, NBT: null, Weight: 1000]
+[23Nov2024 22:37:14.449] [Worker-Main-2/WARN] [ejektaflex.bountiful.BountifulMod/]: Invalid pool item: BountyEntry (item-tag) [Item: forge:ingots/tin, Amount: 0 [[1..16]], Worth: 600, NBT: null, Weight: 1000]
+[23Nov2024 22:37:14.450] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'farmer_objs'
+[23Nov2024 22:37:14.451] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'butcher_objs'
+[23Nov2024 22:37:14.451] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'librarian_objs'
+[23Nov2024 22:37:14.452] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'common_crafts'
+[23Nov2024 22:37:14.452] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'librarian_rews'
+[23Nov2024 22:37:14.453] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'mason_objs'
+[23Nov2024 22:37:14.454] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'hunting_objs'
+[23Nov2024 22:37:14.454] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'hunting_rews'
+[23Nov2024 22:37:14.455] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'all_villager_objs'
+[23Nov2024 22:37:14.455] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'cleric_rews'
+[23Nov2024 22:37:14.455] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'all_villager_rews'
+[23Nov2024 22:37:14.456] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'chef_rews'
+[23Nov2024 22:37:14.457] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'fletcher_objs'
+[23Nov2024 22:37:14.457] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'mapper_rews'
+[23Nov2024 22:37:14.458] [Worker-Main-2/WARN] [ejektaflex.bountiful.BountifulMod/]: Invalid pool item: BountyEntry (item-tag) [Item: minecraft:banners, Amount: 0 [[1..3]], Worth: 750, NBT: null, Weight: 400]
+[23Nov2024 22:37:14.459] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'tinker_rews'
+[23Nov2024 22:37:14.459] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'leatherer_objs'
+[23Nov2024 22:37:14.460] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'fletcher_rews'
+[23Nov2024 22:37:14.468] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'mapper_objs'
+[23Nov2024 22:37:14.469] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'mason_rews'
+[23Nov2024 22:37:14.470] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Found Entry Pools: [hunting, butcher, mason, librarian, farmer, toolsmith, chef, mapper, armorer, fletcher, fisherman, cleric, leatherer, shepherd, tinker]
+[23Nov2024 22:37:24.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[23Nov2024 22:37:24.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[23Nov2024 22:37:24.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[23Nov2024 22:37:24.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[23Nov2024 22:37:24.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[23Nov2024 22:37:24.868] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[23Nov2024 22:37:25.193] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23Nov2024 22:37:25.193] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[23Nov2024 22:37:25.193] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23Nov2024 22:37:25.194] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[23Nov2024 22:37:25.489] [Server thread/INFO] [ejektaflex.bountiful.BountifulMod/]: Registering Bounty Board Jigsaw Piece for Village Type: plains
+[23Nov2024 22:37:25.491] [Server thread/INFO] [ejektaflex.bountiful.BountifulMod/]: Registering Bounty Board Jigsaw Piece for Village Type: savanna
+[23Nov2024 22:37:25.492] [Server thread/INFO] [ejektaflex.bountiful.BountifulMod/]: Registering Bounty Board Jigsaw Piece for Village Type: snowy
+[23Nov2024 22:37:25.492] [Server thread/INFO] [ejektaflex.bountiful.BountifulMod/]: Registering Bounty Board Jigsaw Piece for Village Type: taiga
+[23Nov2024 22:37:25.493] [Server thread/INFO] [ejektaflex.bountiful.BountifulMod/]: Registering Bounty Board Jigsaw Piece for Village Type: desert
+[23Nov2024 22:37:25.500] [Server thread/INFO] [ejektaflex.bountiful.BountifulMod/]: Registering Bounty Board Jigsaw Piece for Repurposed Structures
+[23Nov2024 22:37:25.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[23Nov2024 22:37:25.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[23Nov2024 22:37:28.300] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Nov2024 22:37:28.301] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Nov2024 22:37:28.302] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Nov2024 22:37:28.304] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Nov2024 22:37:28.305] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Nov2024 22:37:28.452] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Nov2024 22:37:29.245] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Nov2024 22:37:29.517] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 84%
+[23Nov2024 22:37:29.892] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[23Nov2024 22:37:30.062] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[23Nov2024 22:37:30.153] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 4202 ms
+[23Nov2024 22:37:30.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.895s)! For help, type "help"
+[23Nov2024 22:37:30.245] [Server thread/INFO] [com.song.castle_in_the_sky.CastleInTheSky/]: HELLO from server starting
+[23Nov2024 22:37:30.279] [Server thread/INFO] [corail_recycler/]: 529 recycling recipes loaded
+[23Nov2024 22:37:30.280] [Server thread/INFO] [Spartan Weaponry/]: Starting up Server for Spartan Weaponry!
+[23Nov2024 22:37:30.285] [Server thread/INFO] [corgiaoc.byg.BYG/]: BYG: "Server Starting" Event Complete!
+[23Nov2024 22:37:30.291] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=false, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, GORGON_TEMPLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, MAUSOLEUM_CF=true, ICE_DRAGON_CAVE_CF=true, GRAVEYARD_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=true, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
+[23Nov2024 22:37:30.297] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[23Nov2024 22:37:30.297] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[23Nov2024 22:37:30.367] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 25565
+[23Nov2024 22:38:20.377] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@57da667a
+[23Nov2024 22:38:20.435] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: miyio[/127.10.0.117:59399] logged in with entity id 277 at (216.0922463424932, 68.25220334025373, 38.23627202979893)
+[23Nov2024 22:38:20.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio joined the game
+[23Nov2024 22:38:22.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2233ms or 44 ticks behind
+[23Nov2024 22:38:26.267] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of miyio (18)
+[23Nov2024 22:38:26.271] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to miyio
+[23Nov2024 22:38:30.393] [Worker-Main-2/INFO] [bettercaves/]: CREATING AND INIT'ING CARVER W DIMENSION minecraft:overworld...
+[23Nov2024 22:38:30.396] [Worker-Main-2/INFO] [bettercaves/]: Better Caves config file for dimension minecraft:overworld not found. Using global config...
+[23Nov2024 22:38:30.469] [Worker-Main-2/INFO] [bettercaves/]: Using block 'minecraft:lava' as lava in cave generation for dimension minecraft:overworld
+[23Nov2024 22:38:30.471] [Worker-Main-2/INFO] [bettercaves/]: Using block 'Block{minecraft:water}[level=0]' as water in cave generation for dimension minecraft:overworld
+[23Nov2024 22:38:36.108] [Worker-Main-2/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:regular_bottom pattern registered.
+[23Nov2024 22:38:36.147] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom
+[23Nov2024 22:38:36.736] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4db113a9
+[23Nov2024 22:38:36.748] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: leogatunoxd[/127.214.68.147:59217] logged in with entity id 531 at (-31.843696479100117, 71.24918707874468, 126.1800915249324)
+[23Nov2024 22:38:36.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: leogatunoxd joined the game
+[23Nov2024 22:38:39.046] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of leogatunoxd (18)
+[23Nov2024 22:38:39.048] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to leogatunoxd
+[23Nov2024 22:38:59.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21865ms or 437 ticks behind
+[23Nov2024 22:39:18.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4109ms or 82 ticks behind
+[23Nov2024 22:39:20.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Nov2024 22:39:20.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Nov2024 22:39:20.498] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: miyio lost connection: Internal Exception: java.lang.StackOverflowError
+[23Nov2024 22:39:20.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio left the game
+[23Nov2024 22:39:20.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Nov2024 22:39:20.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Nov2024 22:39:36.617] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Nov2024 22:39:36.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Nov2024 22:39:36.619] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Nov2024 22:39:36.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Nov2024 22:39:36.624] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Nov2024 22:39:36.720] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Nov2024 22:39:36.766] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Nov2024 22:39:36.767] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
